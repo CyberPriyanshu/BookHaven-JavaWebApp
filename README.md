@@ -250,14 +250,6 @@ Developed as part of the **Advanced Java** course project, demonstrating:
 - CRUD operations
 - UI/UX design with Bootstrap
 
-## 📞 Support
-
-For questions or issues:
-- Open an issue on GitHub
-- Contact: priyanshu@example.com
-
----
-
 ⭐ If you find this project helpful, please give it a star!
 
 **Happy Coding! 🚀**
